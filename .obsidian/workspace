@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "cb4dbbab408a8290",
+    "type": "split",
+    "children": [
+      {
+        "id": "57dafe1996740787",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d3d3766b5b1d73f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fbc2e0340e36365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1ef90caf615e07d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed20d94dd10db328",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b0a56ac848a433e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdb142e92f6b6315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a185dc0c771d7a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "57dafe1996740787",
+  "lastOpenFiles": [
+    "_posts/2021-09-04-this-is-my-frirs-post.md",
+    "_posts/2021-09-03-hellokitty.md",
+    "image-20211119181417326.png",
+    "image-20211119181339656.png",
+    "image-20211119181317640.png",
+    "_posts/assets/posts/2021-09-04-this-is-my-frirs-post/image-20211119181242364.png",
+    "image-20211119181123425.png",
+    "image-20211119180933851.png",
+    "image-20211119180920293.png",
+    "_posts/2021-09-02-from-rpcview-to-petitpotam copy.md"
+  ]
+}

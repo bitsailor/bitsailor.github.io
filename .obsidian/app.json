@@ -1,0 +1,10 @@
+{
+  "spellcheck": true,
+  "defaultViewMode": "preview",
+  "emacsyKeys": false,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_posts",
+  "attachmentFolderPath": "./assets/posts/2021-09-04-this-is-my-frirs-post",
+  "newLinkFormat": "relative"
+}
