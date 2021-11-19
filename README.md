@@ -4,11 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
-## ┌──[neo@plab]-[192.168.49.140]-[~]<br/>└─| $ whoami  ⎕ 
+## ┌─[bitsailor@zion]-[~]<br/>└─| $ whoami  ⎕ 
 
 Hello Kitty
 
-## ┌──[neo@plab]-[192.168.49.140]-[~]<br/>└─| $ uname -a  ⎕ 
+## ┌─[bitsailor@zion]-[~]<br/>└─| $ uname -a  ⎕ 
 
 - Blog engine: This blog is powered by [Jekyll](https://jekyllrb.com/).  
 - Blog theme: [Contrast](https://github.com/niklasbuschmann/contrast) by _Niklas Buschmann_.  
