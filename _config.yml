@@ -23,7 +23,7 @@ minimal: true               # use simpler style
 
 navigation:
   - {file: "index.html", icon: home}
-  - {file: "tools.md", icon: tools}
+# - {file: "tools.md", icon: tools}
   - {file: "archive.html", icon: archive}
   - {file: "README.md", icon: address-card}
 
