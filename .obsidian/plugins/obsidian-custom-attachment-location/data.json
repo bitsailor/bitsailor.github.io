@@ -1,5 +1,0 @@
-{
-  "attachmentFolder": "assets/posts/${filename}",
-  "pastedImageFileName": "image-${date}",
-  "dateTimeFormat": "YYYYMMDDHHmmssSSS"
-}
