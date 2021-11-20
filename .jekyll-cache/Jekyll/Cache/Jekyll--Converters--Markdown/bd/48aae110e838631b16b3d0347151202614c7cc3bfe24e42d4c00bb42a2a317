@@ -1,0 +1,16 @@
+I"4<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled.</p>
+
+<h2 id="a-picture">A Picture</h2>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+
+<p align="center">
+  <img src="/assets/posts/2021-09-04-this-is-my-frirs-post//cowsay1.png" />
+</p>
+
+<h3 id="a-piece-of-a-code">A piece of a code</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for </span>i <span class="k">in </span>1 2 3<span class="p">;</span> <span class="k">do 
+  </span><span class="nb">echo </span>hello <span class="nv">$i</span>
+<span class="k">done</span>
+</code></pre></div></div>
+:ET
