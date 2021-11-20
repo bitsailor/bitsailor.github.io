@@ -2,14 +2,17 @@
 title: "First Post with a picture" 
 layout: "post"
 ---
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled.
 
-# Header
+
+## A Picture
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+
 <p align="center">
-  <img src="/assets/posts/2021-09-04-this-is-my-frirs-post//image-20211119181448183.png">
+  <img src="/assets/posts/2021-09-04-this-is-my-frirs-post//cowsay1.png">
 </p>
 
-
-## Subheader
+### A piece of a code
 
 ```bash
 for i in 1 2 3; do 
