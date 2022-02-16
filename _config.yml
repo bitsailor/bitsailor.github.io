@@ -1,6 +1,6 @@
 title: "bits4ilor's blog"
 author: "bits4ilor"
-description: "┌─[bitsailor@zion]-[~]<br/>└ $ ⎕ "
+description: "Test Description" #"┌─[bitsailor@zion]-[~]<br/>└ $ ⎕ "
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,7 +17,7 @@ show_title: false            # always keep the site title visible
 # Styling
 
 dark_header: true            # always keep the header dark
-minimal: true               # use simpler style
+minimal: false               # use simpler style
 
 # Menu
 
@@ -30,8 +30,8 @@ navigation:
 external:                    # see http://fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/bitsailor"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/bitsailor"}
-  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/bitsailor"}
+#  - {title: Twitter, icon: twitter, url: "https://twitter.com/bitsailor"}
+#  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/bitsailor"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
