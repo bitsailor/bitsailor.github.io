@@ -1,5 +1,5 @@
 ---
-title: "MySQL Error `file too short` when creating sys_exec function"
+title: "MySQL Error "file too short" when creating sys_exec function"
 layout: post
 published: true
 ---
