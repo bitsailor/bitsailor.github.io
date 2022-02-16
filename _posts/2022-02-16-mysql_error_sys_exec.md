@@ -14,7 +14,8 @@ mysql> select * from foo into dumpfile '/usr/lib/mysql/plugin/lib_mysqludf_sys_6
 
 mysql> create function sys_exec returns integer soname 'lib_mysqludf_sys_64.so';
 
-ERROR 1126 (HY000): Can't open shared library 'lib_mysqludf_sys_64.so' (errno: 11 /usr/lib/mysql/plugin/lib_mysqludf_sys_64.so: file too short)
+ERROR 1126 (HY000): Can't open shared library 'lib_mysqludf_sys_64.so' 
+(errno: 11 /usr/lib/mysql/plugin/lib_mysqludf_sys_64.so: file too short)
 ```
 
 
