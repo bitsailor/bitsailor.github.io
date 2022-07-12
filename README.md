@@ -11,7 +11,7 @@ Hello Kitty. Lorem Ipsum is simply dummy text of the printing and typesetting in
 
 ---
 
-## ┌─[bitsailor@zion]-[~]<br/>└ $ uname -a  ⎕ 
+## ┌─[bitsailor@zion]-[~]<br/>└ $ uname -a  ⎕
 
 - This Blog is generated with [Jekyll](https://jekyllrb.com) and runs on [Github Pages](https://pages.github.com).
 - Blog theme [Contrast](https://github.com/niklasbuschmann/contrast) developed by _Niklas Buschmann_.
