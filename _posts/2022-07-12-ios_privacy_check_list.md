@@ -1,7 +1,7 @@
 ---
 title: "iPhone iOS Privacy Check List"
 layout: post
-published: true
+published: false
 ---
 
 Here are the things to consider to increase your iOS devices such as iPhone or iPad privacy.
